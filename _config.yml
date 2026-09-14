@@ -7,11 +7,11 @@ description: "My Test Site"
 url: "https://dogongem16.github.io"
 baseurl: "/my-test-site"
 author: "dogongem16"
-email: ""
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+email: "Gradenbell100@gmail.com"
+telar_theme: "trama"
 logo: ""
-telar_language: "en" # Options: "en" (English), "es" (Español)
-collection_mode: false # Set to true to show objects first with large thumbnails and stories below with small thumbnails (collection-first homepage)
+telar_language: en
+collection_mode: false
 
 # Story Interface Settings
 story_interface:
